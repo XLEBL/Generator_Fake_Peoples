@@ -3,10 +3,13 @@
 
 This is a generator fake peoples. 
 To install everything necessary for the code to work, do
-```
+```python
 pip install -r requirements.txt
 ```
 
 this project will be gradually improved and developed.
 
-is this xlebl? yup this is xlebl!
+
+```
+**is this xlebl? yup this is xlebl!**
+```
